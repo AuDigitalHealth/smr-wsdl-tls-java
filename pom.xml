@@ -38,7 +38,7 @@
             scm:git:https://github.com/AuDigitalHealth/smr-wsdl-tls-java.git
         </developerConnection>
         <url>https://github.com/AuDigitalHealth/smr-wsdl-tls-java.git</url>
-        <tag>smr-wsdl-tls-1.0.3</tag>
+        <tag>smr-wsdl-tls-1.0.4</tag>
     </scm>
 
     <distributionManagement>
